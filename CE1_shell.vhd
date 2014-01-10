@@ -51,4 +51,3 @@ F <= E or D;
 
 end Behavioral;
 
---commentary 
