@@ -19,6 +19,10 @@ Computer Exercise Number 1
 ##Waveform Image
 
 ![alt text](https://github.com/EricaLewandowski/ECE281_CE1/blob/master/waveform.png) 
+If the picture doesn't appear, click the link below.
+
+[Waveform Picture](https://github.com/EricaLewandowski/ECE281_CE1/blob/master/waveform.png)
+
 
 ###Analysis
 
